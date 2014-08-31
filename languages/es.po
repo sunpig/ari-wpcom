@@ -1,0 +1,315 @@
+# Translation of Ari in Spanish (Spain)
+# This file is distributed under the same license as the Ari package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2014-06-17 10:14:24+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/0.1\n"
+"Project-Id-Version: Ari\n"
+
+msgid "A beautifully designed minimalistic blog theme. It comes with two color schemes and allows you to customize links and text colors. Also it supports a custom header, a custom background, a custom menu and two optional widget areas in sidebars. Together, all of these features help you to control how to present your blog to your readers."
+msgstr ""
+
+msgid "Full Width page"
+msgstr "Página de ancho completo"
+
+#: sidebar.php:13
+msgid "Skip to content"
+msgstr "Saltar al contenido."
+
+#: sidebar.php:12
+msgid "Menu"
+msgstr "Menú"
+
+#: search.php:37
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Lo sentimos, pero nada coincidió con su búsqueda. Por favor inténtelo de nuevo con otras palabras clave."
+
+#: search.php:17
+msgid "Search Results for: %s"
+msgstr "Resultados de la búsqueda para: %s"
+
+#: index.php:41
+msgid "No posts to display"
+msgstr "No hay entradas que mostrar"
+
+#: index.php:45
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "¿Preparado para publicar tu primera entrada? <a href=\"%1$s\">Empieza aquí</a>."
+
+#: inc/theme-options/theme-options.php:298
+msgid "%s Theme Options"
+msgstr "Opciones del tema %s"
+
+#: inc/tweaks.php:130
+msgid "Page %s"
+msgstr "Página %s"
+
+#: inc/theme-options/theme-options.php:251
+#: inc/theme-options/theme-options.php:268
+#: inc/theme-options/theme-options.php:285
+msgid "Default color: %s"
+msgstr "Color por defecto: %s"
+
+#: inc/theme-options/theme-options.php:248
+#: inc/theme-options/theme-options.php:265
+#: inc/theme-options/theme-options.php:282
+msgid "Select a Color"
+msgstr "Selecciona un color"
+
+#: inc/theme-options/theme-options.php:113
+msgid "Dark"
+msgstr "Oscuro"
+
+#: inc/theme-options/theme-options.php:105
+msgid "Light"
+msgstr "Claro"
+
+#: inc/theme-options/theme-options.php:87
+#: inc/theme-options/theme-options.php:88
+msgid "Theme Options"
+msgstr "Opciones del tema"
+
+#: inc/theme-options/theme-options.php:58
+msgid "First Link Color"
+msgstr "Primer color de enlace"
+
+#: inc/theme-options/theme-options.php:59
+msgid "Second Link Color"
+msgstr "Segundo color de enlace"
+
+#: inc/theme-options/theme-options.php:60
+msgid "Text Color"
+msgstr "Color de Texto"
+
+#: inc/theme-options/theme-options.php:57
+msgid "Color Scheme"
+msgstr "Combinación de colores"
+
+#: inc/template-tags.php:113
+msgid "<span class=\"post-date\"><a href=\"%1$s\" title=\"%2$s\" rel=\"bookmark\"><time class=\"entry-date\" datetime=\"%3$s\" pubdate>%4$s</time></a></span><span class=\"byline\"> by <span class=\"author vcard\"><a class=\"url fn n\" href=\"%5$s\" title=\"%6$s\" rel=\"author\">%7$s</a></span></span>"
+msgstr "<span class=\"post-date\"><a href=\"%1$s\" title=\"%2$s\" rel=\"bookmark\"><time class=\"entry-date\" datetime=\"%3$s\" pubdate>%4$s</time></a></span><span class=\"byline\"> de <span class=\"author vcard\"><a class=\"url fn n\" href=\"%5$s\" title=\"%6$s\" rel=\"author\">%7$s</a></span></span>"
+
+#: inc/template-tags.php:119
+msgid "View all posts by %s"
+msgstr "Ver todas las entradas de %s"
+
+#: inc/template-tags.php:88
+msgid "%1$s at %2$s"
+msgstr "%1$s en %2$s"
+
+#: inc/template-tags.php:84
+msgid "%s <span class=\"says\">says:</span>"
+msgstr "%s <span class=\"says\">dijo:</span>"
+
+#: inc/template-tags.php:80
+msgid "Your comment is awaiting moderation."
+msgstr "Tu comentario está pendiente de moderación."
+
+#: inc/template-tags.php:65
+msgid "Pingback:"
+msgstr "Pingback:"
+
+#: inc/template-tags.php:40
+msgid "Newer posts <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Entradas más nuevas <span class=\"meta-nav\">&rarr;</span>"
+
+#: inc/template-tags.php:36
+msgid "<span class=\"meta-nav\">&larr;</span> Older posts"
+msgstr "<span class=\"meta-nav\">&larr;</span> Entradas más antiguas"
+
+#: inc/template-tags.php:30
+msgctxt "Previous post link"
+msgid "&larr;"
+msgstr "&larr;"
+
+#: inc/template-tags.php:31
+msgctxt "Next post link"
+msgid "&rarr;"
+msgstr "&rarr;"
+
+#: inc/template-tags.php:26
+msgid "Post navigation"
+msgstr "Navegador de artículos"
+
+#: image.php:97
+msgid "Both comments and trackbacks are currently closed."
+msgstr "Tanto los comentarios como las referencias están actualmente cerrados."
+
+#: image.php:95
+msgid "Trackbacks are closed, but you can <a class=\"comment-link\" href=\"#respond\" title=\"Post a comment\">post a comment</a>."
+msgstr "Las referencias están cerradas pero puedes <a class=\"comment-link\" href=\"#respond\" title=\"Publicar un comentario\">publicar un comentario</a>."
+
+#: image.php:93
+msgid "Comments are closed, but you can leave a trackback: <a class=\"trackback-link\" href=\"%s\" title=\"Trackback URL for your post\" rel=\"trackback\">Trackback URL</a>."
+msgstr "Los comentarios están cerrados pero puedes hacer una referencia: <a class=\"trackback-link\" href=\"%s\" title=\"URL de la referencia a tu entrada\" rel=\"trackback\">URL de referencia</a>."
+
+#: image.php:91
+msgid "<a class=\"comment-link\" href=\"#respond\" title=\"Post a comment\">Post a comment</a> or leave a trackback: <a class=\"trackback-link\" href=\"%s\" title=\"Trackback URL for your post\" rel=\"trackback\">Trackback URL</a>."
+msgstr "<a class=\"comment-link\" href=\"#respond\" title=\"Publica un comentario\">Publica un comentario</a> o deja una referencia: <a class=\"trackback-link\" href=\"%s\" title=\"URL de la referencia a tu entrada\" rel=\"trackback\">URL de la referencia</a>."
+
+#: image.php:38
+msgid "Next &rarr;"
+msgstr "Siguiente &rarr;"
+
+#: image.php:37
+msgid "&larr; Previous"
+msgstr "&larr; Anterior"
+
+#: functions.php:81
+msgid "Secondary Sidebar"
+msgstr "Barra lateral secundaria"
+
+#: image.php:24
+msgid "Published <span class=\"entry-date\"><time class=\"entry-date\" datetime=\"%1$s\" pubdate>%2$s</time></span> at <a href=\"%3$s\" title=\"Link to full-size image\">%4$s &times; %5$s</a> in <a href=\"%6$s\" title=\"Return to %7$s\" rel=\"gallery\">%7$s</a>"
+msgstr "Publicado <span class=\"entry-date\"><time class=\"entry-date\" datetime=\"%1$s\" pubdate>%2$s</time></span> en <a href=\"%3$s\" title=\"Link to full-size image\">%4$s &times; %5$s</a> en <a href=\"%6$s\" title=\"Return to %7$s\" rel=\"gallery\">%7$s</a>"
+
+#: functions.php:73
+msgid "Primary Sidebar"
+msgstr "Barra lateral primaria"
+
+#: functions.php:55
+msgid "Primary Menu"
+msgstr "Menú Principal"
+
+#: footer.php:19
+msgid "Theme: %1$s by %2$s."
+msgstr "Tema: %1$s por %2$s."
+
+#: footer.php:17
+msgid "Proudly powered by %s"
+msgstr "Funciona con %s"
+
+#: footer.php:17
+msgid "A Semantic Personal Publishing Platform"
+msgstr "Una Plataforma de Publicación Semántica Personal"
+
+#: content.php:72
+msgid "About %s"
+msgstr "Acerca de %s"
+
+#: content.php:76
+msgid "View all posts by %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Ver todas las entradas por %s <span class=\"meta-nav\">&rarr;</span>"
+
+#: content.php:61
+msgid "1 Comment"
+msgstr "1 comentario"
+
+#: content.php:61
+msgid "% Comments"
+msgstr "% comentarios"
+
+#: content.php:54
+msgid "Tags: %1$s"
+msgstr "Etiquetas: %1$s"
+
+#: content.php:61
+msgid "Leave a comment"
+msgstr "Deja un comentario"
+
+#: content.php:43
+msgid "Categories: %1$s"
+msgstr "Categorías: %1$s"
+
+#: content.php:39 content.php:49
+msgid ", "
+msgstr ", "
+
+#: content.php:27 inc/tweaks.php:38
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Sigue leyendo <span class=\"meta-nav\">&rarr;</span>"
+
+#: content.php:10
+msgid "Featured"
+msgstr "Destacado"
+
+#: content-page.php:18 content.php:64 image.php:99 inc/template-tags.php:65
+#: inc/template-tags.php:90
+msgid "Edit"
+msgstr "Editar"
+
+#: content-page.php:17 content.php:28 image.php:85
+msgid "Pages:"
+msgstr "Páginas:"
+
+#: comments.php:63
+msgid "Comments are closed."
+msgstr "Los comentarios están cerrados."
+
+#: comments.php:53
+msgid "Newer Comments &rarr;"
+msgstr "Comentarios recientes &rarr;"
+
+#: comments.php:52
+msgid "&larr; Older Comments"
+msgstr "&larr; Comentarios antiguos"
+
+#: comments.php:32
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "Un pensamiento en &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s pensamientos en &ldquo;%2$s&rdquo;"
+
+#: comments.php:51
+msgid "Comment navigation"
+msgstr "Navegación de comentarios"
+
+#: comments.php:16
+msgid "This post is password protected. Enter the password to view any comments."
+msgstr "Esta entrada está protegida. Introduce la contraseña para ver los comentarios."
+
+#: archive.php:95
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Parece que no podemos encontrar lo que estás buscando. Tal vez la búsqueda le pueda ayudar."
+
+#: archive.php:91 search.php:33
+msgid "Nothing Found"
+msgstr "No se ha encontrado nada"
+
+#: archive.php:49
+msgid "Archives"
+msgstr "Archivos"
+
+#: archive.php:32
+msgid "Author Archives for %s"
+msgstr "Archivos de autor para %s"
+
+#: archive.php:40
+msgid "Daily Archives for %s"
+msgstr "Archivos diarios para %s"
+
+#: archive.php:43
+msgid "Monthly Archives for %s"
+msgstr "Archivos mensuales de %s"
+
+#: archive.php:46
+msgid "Yearly Archives for %s"
+msgstr "Archivos anuales para %s"
+
+#: archive.php:22
+msgid "Category Archives for %s"
+msgstr "Archivos de categoría para %s"
+
+#: archive.php:25
+msgid "Tag Archives for %s"
+msgstr "Archivos de etiquetas para %s"
+
+#: 404.php:27
+msgid "Most Used Categories"
+msgstr "Categorías más usadas"
+
+#: 404.php:35
+msgid "Try looking in the monthly archives. %1$s"
+msgstr "Trata de buscar en los archivos mensuales. %1$s"
+
+#: 404.php:16
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "¡Vaya! Esa página no se puede encontrar."
+
+#: 404.php:20
+msgid "It looks like nothing was found at this location. Maybe try one of the links below or a search?"
+msgstr "Parece que no se encontró nada en esta ubicación. ¿Quizás pruebes con uno de los enlaces de abajo o una búsqueda?"

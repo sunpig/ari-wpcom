@@ -1,0 +1,314 @@
+# Translation of Ari in Japanese
+# This file is distributed under the same license as the Ari package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2014-06-17 10:07:02+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/0.1\n"
+"Project-Id-Version: Ari\n"
+
+msgid "A beautifully designed minimalistic blog theme. It comes with two color schemes and allows you to customize links and text colors. Also it supports a custom header, a custom background, a custom menu and two optional widget areas in sidebars. Together, all of these features help you to control how to present your blog to your readers."
+msgstr ""
+
+msgid "Full Width page"
+msgstr "全幅ページ"
+
+#: sidebar.php:13
+msgid "Skip to content"
+msgstr "コンテンツへ移動"
+
+#: sidebar.php:12
+msgid "Menu"
+msgstr "メニュー"
+
+#: search.php:37
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "ご指定の検索条件に一致する投稿がありませんでした。他のキーワードでもう一度検索してみてください。"
+
+#: search.php:17
+msgid "Search Results for: %s"
+msgstr "検索結果: %s"
+
+#: index.php:41
+msgid "No posts to display"
+msgstr "表示する投稿がありません"
+
+#: index.php:45
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "最初の投稿をする準備ができましたか ?  <a href=\"%1$s\">ここからスタート</a>してください。"
+
+#: inc/theme-options/theme-options.php:298
+msgid "%s Theme Options"
+msgstr "%s テーマ設定"
+
+#: inc/tweaks.php:130
+msgid "Page %s"
+msgstr "ページ %s"
+
+#: inc/theme-options/theme-options.php:251
+#: inc/theme-options/theme-options.php:268
+#: inc/theme-options/theme-options.php:285
+msgid "Default color: %s"
+msgstr "初期設定の色: %s"
+
+#: inc/theme-options/theme-options.php:248
+#: inc/theme-options/theme-options.php:265
+#: inc/theme-options/theme-options.php:282
+msgid "Select a Color"
+msgstr "色を選択"
+
+#: inc/theme-options/theme-options.php:113
+msgid "Dark"
+msgstr "ダークカラー"
+
+#: inc/theme-options/theme-options.php:105
+msgid "Light"
+msgstr "ライトカラー"
+
+#: inc/theme-options/theme-options.php:87
+#: inc/theme-options/theme-options.php:88
+msgid "Theme Options"
+msgstr "テーマオプション"
+
+#: inc/theme-options/theme-options.php:58
+msgid "First Link Color"
+msgstr "リンク色 1"
+
+#: inc/theme-options/theme-options.php:59
+msgid "Second Link Color"
+msgstr "リンク色 2"
+
+#: inc/theme-options/theme-options.php:60
+msgid "Text Color"
+msgstr "テキスト色"
+
+#: inc/theme-options/theme-options.php:57
+msgid "Color Scheme"
+msgstr "配色 "
+
+#: inc/template-tags.php:113
+msgid "<span class=\"post-date\"><a href=\"%1$s\" title=\"%2$s\" rel=\"bookmark\"><time class=\"entry-date\" datetime=\"%3$s\" pubdate>%4$s</time></a></span><span class=\"byline\"> by <span class=\"author vcard\"><a class=\"url fn n\" href=\"%5$s\" title=\"%6$s\" rel=\"author\">%7$s</a></span></span>"
+msgstr "<span class=\"post-date\"><a href=\"%1$s\" title=\"%2$s\" rel=\"bookmark\"><time class=\"entry-date\" datetime=\"%3$s\" pubdate>%4$s</time></a></span><span class=\"byline\"> 投稿者: <span class=\"author vcard\"><a class=\"url fn n\" href=\"%5$s\" title=\"%6$s\" rel=\"author\">%7$s</a></span></span>"
+
+#: inc/template-tags.php:119
+msgid "View all posts by %s"
+msgstr "%s のすべての投稿を表示"
+
+#: inc/template-tags.php:88
+msgid "%1$s at %2$s"
+msgstr "%1$s %2$s"
+
+#: inc/template-tags.php:84
+msgid "%s <span class=\"says\">says:</span>"
+msgstr "%s <span class=\"says\">の発言:</span>"
+
+#: inc/template-tags.php:80
+msgid "Your comment is awaiting moderation."
+msgstr "あなたのコメントは承認待ちです。"
+
+#: inc/template-tags.php:65
+msgid "Pingback:"
+msgstr "ピンバック:"
+
+#: inc/template-tags.php:40
+msgid "Newer posts <span class=\"meta-nav\">&rarr;</span>"
+msgstr "新しい投稿 <span class=\"meta-nav\">&rarr;</span>"
+
+#: inc/template-tags.php:36
+msgid "<span class=\"meta-nav\">&larr;</span> Older posts"
+msgstr "<span class=\"meta-nav\">&larr;</span> 過去の投稿"
+
+#: inc/template-tags.php:30
+msgctxt "Previous post link"
+msgid "&larr;"
+msgstr "&larr;"
+
+#: inc/template-tags.php:31
+msgctxt "Next post link"
+msgid "&rarr;"
+msgstr "&rarr;"
+
+#: inc/template-tags.php:26
+msgid "Post navigation"
+msgstr "投稿ナビゲーション"
+
+#: image.php:97
+msgid "Both comments and trackbacks are currently closed."
+msgstr "コメント・トラックバックは受け付けていません。"
+
+#: image.php:95
+msgid "Trackbacks are closed, but you can <a class=\"comment-link\" href=\"#respond\" title=\"Post a comment\">post a comment</a>."
+msgstr "現在トラックバックは受け付けていませんが、<a class=\"comment-link\" href=\"#respond\" title=\"コメントを投稿\">コメントを投稿</a>できます。"
+
+#: image.php:93
+msgid "Comments are closed, but you can leave a trackback: <a class=\"trackback-link\" href=\"%s\" title=\"Trackback URL for your post\" rel=\"trackback\">Trackback URL</a>."
+msgstr "現在コメントは受け付けていませんが、トラックバックを送信できます: <a class=\"trackback-link\" href=\"%s\" title=\"あなたの投稿用のトラックバック URL\" rel=\"trackback\">トラックバック URL</a>"
+
+#: image.php:91
+msgid "<a class=\"comment-link\" href=\"#respond\" title=\"Post a comment\">Post a comment</a> or leave a trackback: <a class=\"trackback-link\" href=\"%s\" title=\"Trackback URL for your post\" rel=\"trackback\">Trackback URL</a>."
+msgstr "<a class=\"comment-link\" href=\"#respond\" title=\"コメントを投稿\">コメントを投稿</a>するか、トラックバックを送信できます: <a class=\"trackback-link\" href=\"%s\" title=\"この投稿のトラックバック URL\" rel=\"trackback\">トラックバック URL</a>"
+
+#: image.php:38
+msgid "Next &rarr;"
+msgstr "次へ &rarr;"
+
+#: image.php:37
+msgid "&larr; Previous"
+msgstr "&larr; 前へ"
+
+#: functions.php:81
+msgid "Secondary Sidebar"
+msgstr "サイドバー 2"
+
+#: image.php:24
+msgid "Published <span class=\"entry-date\"><time class=\"entry-date\" datetime=\"%1$s\" pubdate>%2$s</time></span> at <a href=\"%3$s\" title=\"Link to full-size image\">%4$s &times; %5$s</a> in <a href=\"%6$s\" title=\"Return to %7$s\" rel=\"gallery\">%7$s</a>"
+msgstr "投稿日時: <span class=\"entry-date\"><time class=\"entry-date\" datetime=\"%1$s\" pubdate>%2$s</time></span> @ <a href=\"%3$s\" title=\"フルサイズ画像へのリンク\">%4$s &times; %5$s</a> | <a href=\"%6$s\" title=\"%7$s へ戻る\" rel=\"gallery\">%7$s</a>"
+
+#: functions.php:73
+msgid "Primary Sidebar"
+msgstr "メインサイドバー"
+
+#: functions.php:55
+msgid "Primary Menu"
+msgstr "メインメニュー"
+
+#: footer.php:19
+msgid "Theme: %1$s by %2$s."
+msgstr "Theme: %1$s by %2$s."
+
+#: footer.php:17
+msgid "Proudly powered by %s"
+msgstr "Proudly powered by %s"
+
+#: footer.php:17
+msgid "A Semantic Personal Publishing Platform"
+msgstr "セマンティックなブログ／CMS プラットフォーム"
+
+#: content.php:72
+msgid "About %s"
+msgstr "%s について"
+
+#: content.php:76
+msgid "View all posts by %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr "%s の投稿をすべて表示 <span class=\"meta-nav\">&rarr;</span>"
+
+#: content.php:61
+msgid "1 Comment"
+msgstr "1件のコメント"
+
+#: content.php:61
+msgid "% Comments"
+msgstr "%件のコメント"
+
+#: content.php:54
+msgid "Tags: %1$s"
+msgstr "タグ: %1$s "
+
+#: content.php:61
+msgid "Leave a comment"
+msgstr "コメントする"
+
+#: content.php:43
+msgid "Categories: %1$s"
+msgstr "カテゴリー: %1$s"
+
+#: content.php:39 content.php:49
+msgid ", "
+msgstr ", "
+
+#: content.php:27 inc/tweaks.php:38
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr "続きを読む <span class=\"meta-nav\">&rarr;</span>"
+
+#: content.php:10
+msgid "Featured"
+msgstr "注目"
+
+#: content-page.php:18 content.php:64 image.php:99 inc/template-tags.php:65
+#: inc/template-tags.php:90
+msgid "Edit"
+msgstr "編集"
+
+#: content-page.php:17 content.php:28 image.php:85
+msgid "Pages:"
+msgstr "ページ:"
+
+#: comments.php:63
+msgid "Comments are closed."
+msgstr "コメントは受け付けていません。"
+
+#: comments.php:53
+msgid "Newer Comments &rarr;"
+msgstr "新しいコメント &rarr;"
+
+#: comments.php:52
+msgid "&larr; Older Comments"
+msgstr "&larr; 古いコメント"
+
+#: comments.php:32
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "「%2$s」への%1$s件のフィードバック"
+
+#: comments.php:51
+msgid "Comment navigation"
+msgstr "コメントナビゲーション"
+
+#: comments.php:16
+msgid "This post is password protected. Enter the password to view any comments."
+msgstr "この投稿はパスワードで保護されています。コメントを表示するにはパスワードを入力してください。"
+
+#: archive.php:95
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "お探しのコンテンツを見つけられませんでした。検索をお試しください。"
+
+#: archive.php:91 search.php:33
+msgid "Nothing Found"
+msgstr "見つかりません"
+
+#: archive.php:49
+msgid "Archives"
+msgstr "アーカイブ"
+
+#: archive.php:32
+msgid "Author Archives for %s"
+msgstr "「%s」の投稿者アーカイブ"
+
+#: archive.php:40
+msgid "Daily Archives for %s"
+msgstr "日別アーカイブ: %s"
+
+#: archive.php:43
+msgid "Monthly Archives for %s"
+msgstr "月別アーカイブ: %s"
+
+#: archive.php:46
+msgid "Yearly Archives for %s"
+msgstr "年別アーカイブ: %s"
+
+#: archive.php:22
+msgid "Category Archives for %s"
+msgstr "カテゴリーアーカイブ: %s"
+
+#: archive.php:25
+msgid "Tag Archives for %s"
+msgstr "タグアーカイブ: %s"
+
+#: 404.php:27
+msgid "Most Used Categories"
+msgstr "よく使われているカテゴリー"
+
+#: 404.php:35
+msgid "Try looking in the monthly archives. %1$s"
+msgstr "月別アーカイブを見てみてください。%1$s"
+
+#: 404.php:16
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "お探しのページが見つかりません。"
+
+#: 404.php:20
+msgid "It looks like nothing was found at this location. Maybe try one of the links below or a search?"
+msgstr "ここには何も見つかりませんでした。以下のリンクまたは検索をお試しください。"

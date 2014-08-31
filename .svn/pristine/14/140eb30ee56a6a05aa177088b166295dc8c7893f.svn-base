@@ -1,0 +1,315 @@
+# Translation of Ari in Azerbaijani
+# This file is distributed under the same license as the Ari package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2014-06-02 15:30:08+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/0.1\n"
+"Project-Id-Version: Ari\n"
+
+msgid "A beautifully designed minimalistic blog theme. It comes with two color schemes and allows you to customize links and text colors. Also it supports a custom header, a custom background, a custom menu and two optional widget areas in sidebars. Together, all of these features help you to control how to present your blog to your readers."
+msgstr ""
+
+msgid "Full Width page"
+msgstr ""
+
+#: sidebar.php:13
+msgid "Skip to content"
+msgstr "Mühtəviyyata keç"
+
+#: sidebar.php:12
+msgid "Menu"
+msgstr "Menyu"
+
+#: search.php:37
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Bağışlayın, axtarış kriteriyalarınıza uyğun heç bir şey tapılmadı. Bəzi fərqli açar kəlmələrdən istifadə edərək təkrar yoxlayın."
+
+#: search.php:17
+msgid "Search Results for: %s"
+msgstr " %s üçün Axtarışın Nəticələri:"
+
+#: index.php:41
+msgid "No posts to display"
+msgstr "Göstəriləcək yazı yoxdur"
+
+#: index.php:45
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "İlk yazınızı dərc etməyə hazırsınızmı? <a href=\"%1$s\">Buradan başlayın</a>."
+
+#: inc/theme-options/theme-options.php:298
+msgid "%s Theme Options"
+msgstr "%s Mövzu parametrləri"
+
+#: inc/tweaks.php:130
+msgid "Page %s"
+msgstr "Səhifə %s"
+
+#: inc/theme-options/theme-options.php:251
+#: inc/theme-options/theme-options.php:268
+#: inc/theme-options/theme-options.php:285
+msgid "Default color: %s"
+msgstr "Mövcud rəng: %s"
+
+#: inc/theme-options/theme-options.php:248
+#: inc/theme-options/theme-options.php:265
+#: inc/theme-options/theme-options.php:282
+msgid "Select a Color"
+msgstr "Bir rəng seçin"
+
+#: inc/theme-options/theme-options.php:113
+msgid "Dark"
+msgstr "Qoyu"
+
+#: inc/theme-options/theme-options.php:105
+msgid "Light"
+msgstr "Açıq"
+
+#: inc/theme-options/theme-options.php:87
+#: inc/theme-options/theme-options.php:88
+msgid "Theme Options"
+msgstr "Mövzu parametrləri"
+
+#: inc/theme-options/theme-options.php:58
+msgid "First Link Color"
+msgstr "İlk Bağlantı Rəngi"
+
+#: inc/theme-options/theme-options.php:59
+msgid "Second Link Color"
+msgstr "İkinci Bağlantı Rəngi"
+
+#: inc/theme-options/theme-options.php:60
+msgid "Text Color"
+msgstr "Mətn rəngi"
+
+#: inc/theme-options/theme-options.php:57
+msgid "Color Scheme"
+msgstr "Rəng sxemi"
+
+#: inc/template-tags.php:113
+msgid "<span class=\"post-date\"><a href=\"%1$s\" title=\"%2$s\" rel=\"bookmark\"><time class=\"entry-date\" datetime=\"%3$s\" pubdate>%4$s</time></a></span><span class=\"byline\"> by <span class=\"author vcard\"><a class=\"url fn n\" href=\"%5$s\" title=\"%6$s\" rel=\"author\">%7$s</a></span></span>"
+msgstr "<span class=\"post-date\"><a href=\"%1$s\" title=\"%2$s\" rel=\"bookmark\"><time class=\"entry-date\" datetime=\"%3$s\" pubdate>%4$s</time></a></span><span class=\"byline\"> müəllif <span class=\"author vcard\"><a class=\"url fn n\" href=\"%5$s\" title=\"%6$s\" rel=\"author\">%7$s</a></span></span>"
+
+#: inc/template-tags.php:119
+msgid "View all posts by %s"
+msgstr "%s tərəfindən yazılmış bütün yazılara bax"
+
+#: inc/template-tags.php:88
+msgid "%1$s at %2$s"
+msgstr "%1$s tarixində, saat %2$s"
+
+#: inc/template-tags.php:84
+msgid "%s <span class=\"says\">says:</span>"
+msgstr "%s <span class=\"says\">dedi ki:</span>"
+
+#: inc/template-tags.php:80
+msgid "Your comment is awaiting moderation."
+msgstr "Şərhiniz yoxlama gözləyir."
+
+#: inc/template-tags.php:65
+msgid "Pingback:"
+msgstr "Geri bildiriş: "
+
+#: inc/template-tags.php:40
+msgid "Newer posts <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Yeni yazılar <span class=\"meta-nav\">&rarr;</span>"
+
+#: inc/template-tags.php:36
+msgid "<span class=\"meta-nav\">&larr;</span> Older posts"
+msgstr "<span class=\"meta-nav\">&larr;</span> Əski yazılar"
+
+#: inc/template-tags.php:30
+msgctxt "Previous post link"
+msgid "&larr;"
+msgstr "&larr;"
+
+#: inc/template-tags.php:31
+msgctxt "Next post link"
+msgid "&rarr;"
+msgstr "&rarr;"
+
+#: inc/template-tags.php:26
+msgid "Post navigation"
+msgstr "Yazı naviqasiyaları"
+
+#: image.php:97
+msgid "Both comments and trackbacks are currently closed."
+msgstr "Şərhlər və geri izləmələr indilik bağlıdır."
+
+#: image.php:95
+msgid "Trackbacks are closed, but you can <a class=\"comment-link\" href=\"#respond\" title=\"Post a comment\">post a comment</a>."
+msgstr "Geri izləmələr bağlıdır, amma <a class=\"comment-link\" href=\"#respond\" title=\"Post a comment\">bir şərh</a> yaza bilərsiniz."
+
+#: image.php:93
+msgid "Comments are closed, but you can leave a trackback: <a class=\"trackback-link\" href=\"%s\" title=\"Trackback URL for your post\" rel=\"trackback\">Trackback URL</a>."
+msgstr "Şərhlər bağlıdır, amma geri izləmə qoya bilərsiniz: <a class=\"trackback-link\" href=\"%s\" title=\"Yazınızdan Geri İzləmə Bağlantısı\" rel=\"trackback\">Geri İzləmə Bağlantısı</a>."
+
+#: image.php:91
+msgid "<a class=\"comment-link\" href=\"#respond\" title=\"Post a comment\">Post a comment</a> or leave a trackback: <a class=\"trackback-link\" href=\"%s\" title=\"Trackback URL for your post\" rel=\"trackback\">Trackback URL</a>."
+msgstr "<a class=\"comment-link\" href=\"#respond\" title=\"Post a comment\">Bir şərh yazın</a> və ya bir geri izləmə qoyun: <a class=\"trackback-link\" href=\"%s\" title=\"Trackback URL for your post\" rel=\"trackback\">Geri İzləmə Ünvanı</a>. "
+
+#: image.php:38
+msgid "Next &rarr;"
+msgstr "Sonrakı &rarr;"
+
+#: image.php:37
+msgid "&larr; Previous"
+msgstr "&larr; Öncəki"
+
+#: functions.php:81
+msgid "Secondary Sidebar"
+msgstr "İkinci dərəcəli Yan Menyu Çubuğu"
+
+#: image.php:24
+msgid "Published <span class=\"entry-date\"><time class=\"entry-date\" datetime=\"%1$s\" pubdate>%2$s</time></span> at <a href=\"%3$s\" title=\"Link to full-size image\">%4$s &times; %5$s</a> in <a href=\"%6$s\" title=\"Return to %7$s\" rel=\"gallery\">%7$s</a>"
+msgstr "<span class=\"entry-date\"><time class=\"entry-date\" datetime=\"%1$s\" pubdate>%2$s</time></span> tarixində <a href=\"%3$s\" title=\"Link to full-size image\">%4$s &times; %5$s</a> üzərində <a href=\"%6$s\" title=\"Return to %7$s\" rel=\"gallery\">%7$s</a> içində dərc edildi."
+
+#: functions.php:73
+msgid "Primary Sidebar"
+msgstr "Birinci Dərəcəli Yan Menyu Çubuğu"
+
+#: functions.php:55
+msgid "Primary Menu"
+msgstr "Əsas menyu"
+
+#: footer.php:19
+msgid "Theme: %1$s by %2$s."
+msgstr "Mövzu: %1$s tərəfindən %2$s."
+
+#: footer.php:17
+msgid "Proudly powered by %s"
+msgstr "%s qürurla təqdim edər"
+
+#: footer.php:17
+msgid "A Semantic Personal Publishing Platform"
+msgstr "Müasir Fərdi Yayın Platforması"
+
+#: content.php:72
+msgid "About %s"
+msgstr "%s haqqında"
+
+#: content.php:76
+msgid "View all posts by %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr "%s <span class=\"meta-nav\">&rarr;</span> tərəfindən yazılmış bütün yazılara bax"
+
+#: content.php:61
+msgid "1 Comment"
+msgstr "1 Şərh"
+
+#: content.php:61
+msgid "% Comments"
+msgstr "% Şərh"
+
+#: content.php:54
+msgid "Tags: %1$s"
+msgstr "Etiketlər: %1$s"
+
+#: content.php:61
+msgid "Leave a comment"
+msgstr "Bir şərh yazın"
+
+#: content.php:43
+msgid "Categories: %1$s"
+msgstr "Kateqoriyalar: %1$s"
+
+#: content.php:39 content.php:49
+msgid ", "
+msgstr ","
+
+#: content.php:27 inc/tweaks.php:38
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Oxumağa davam et <span class=\"meta-nav\">&rarr;</span>"
+
+#: content.php:10
+msgid "Featured"
+msgstr "Xüsusi"
+
+#: content-page.php:18 content.php:64 image.php:99 inc/template-tags.php:65
+#: inc/template-tags.php:90
+msgid "Edit"
+msgstr "Redaktə et"
+
+#: content-page.php:17 content.php:28 image.php:85
+msgid "Pages:"
+msgstr "Səhifələr:"
+
+#: comments.php:63
+msgid "Comments are closed."
+msgstr "Şərh üçün bağlıdır."
+
+#: comments.php:53
+msgid "Newer Comments &rarr;"
+msgstr "Yeni şərhlər &rarr;"
+
+#: comments.php:52
+msgid "&larr; Older Comments"
+msgstr "&larr; Əski şərhlər"
+
+#: comments.php:32
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:51
+msgid "Comment navigation"
+msgstr "Şərh naviqasiyası"
+
+#: comments.php:16
+msgid "This post is password protected. Enter the password to view any comments."
+msgstr "Bu yazı parolla qorunur. Şərhləri görmək üçün parolunuzu daxil edin."
+
+#: archive.php:95
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Axtardığınız səhifə tapılmadı. Bəlkə axtarış qutusu axtardığınızı tapmaqda sizə kömək edər."
+
+#: archive.php:91 search.php:33
+msgid "Nothing Found"
+msgstr "Tapılmadı"
+
+#: archive.php:49
+msgid "Archives"
+msgstr "Arxivlər"
+
+#: archive.php:32
+msgid "Author Archives for %s"
+msgstr "%s üçün müəllif arxivləri"
+
+#: archive.php:40
+msgid "Daily Archives for %s"
+msgstr "%s üçün günlük arxivlər"
+
+#: archive.php:43
+msgid "Monthly Archives for %s"
+msgstr "%s üçün aylıq arxivlər"
+
+#: archive.php:46
+msgid "Yearly Archives for %s"
+msgstr "%s üçün illik arxivlər"
+
+#: archive.php:22
+msgid "Category Archives for %s"
+msgstr "%s üçün kateqoriya arxivləri"
+
+#: archive.php:25
+msgid "Tag Archives for %s"
+msgstr "%s üçün etiket arxivləri"
+
+#: 404.php:27
+msgid "Most Used Categories"
+msgstr "Ən sıx istifadə edilən kateqoriyalar"
+
+#: 404.php:35
+msgid "Try looking in the monthly archives. %1$s"
+msgstr "Aylıq arxivlərə baxmağı yoxlayın. %1$s"
+
+#: 404.php:16
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Bağışlayın! Bu səhifə tapılmır."
+
+#: 404.php:20
+msgid "It looks like nothing was found at this location. Maybe try one of the links below or a search?"
+msgstr "Burada heç bir şeyin tapılmadığı görünür. Bəlkə aşağıdakı bağlantılardan birini yoxlayasan və ya bir axtarış edəsən?"

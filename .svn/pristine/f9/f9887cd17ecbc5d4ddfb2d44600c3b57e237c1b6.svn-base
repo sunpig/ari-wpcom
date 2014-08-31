@@ -1,0 +1,314 @@
+# Translation of Ari in Persian
+# This file is distributed under the same license as the Ari package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2014-07-12 17:13:16+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/0.1\n"
+"Project-Id-Version: Ari\n"
+
+msgid "A beautifully designed minimalistic blog theme. It comes with two color schemes and allows you to customize links and text colors. Also it supports a custom header, a custom background, a custom menu and two optional widget areas in sidebars. Together, all of these features help you to control how to present your blog to your readers."
+msgstr ""
+
+msgid "Full Width page"
+msgstr "صفحهٔ تمام‌پهن"
+
+#: sidebar.php:13
+msgid "Skip to content"
+msgstr "پرش به محتوا"
+
+#: sidebar.php:12
+msgid "Menu"
+msgstr "گزینگان"
+
+#: search.php:37
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "متأسفیم، موردی مطابق با جستجوی شما پیدا نشد. لطفا برای جستجو از کلیدواژه‌های دیگری استفاده کنید."
+
+#: search.php:17
+msgid "Search Results for: %s"
+msgstr "نتایج جست‌وجو برای: %s"
+
+#: index.php:41
+msgid "No posts to display"
+msgstr "نوشته‌ای برای نمایش نیست"
+
+#: index.php:45
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "آمادهٔ انتشار نخستین نوشتهٔ خود هستید؟ <a href=\"%1$s\">از اینجا بیآغازید</a>."
+
+#: inc/theme-options/theme-options.php:298
+msgid "%s Theme Options"
+msgstr "%s گزینه‌های پوسته"
+
+#: inc/tweaks.php:130
+msgid "Page %s"
+msgstr "صفحهٔ %s"
+
+#: inc/theme-options/theme-options.php:251
+#: inc/theme-options/theme-options.php:268
+#: inc/theme-options/theme-options.php:285
+msgid "Default color: %s"
+msgstr "رنگ پیش‌فرض: %s"
+
+#: inc/theme-options/theme-options.php:248
+#: inc/theme-options/theme-options.php:265
+#: inc/theme-options/theme-options.php:282
+msgid "Select a Color"
+msgstr "رنگی را برگزینید"
+
+#: inc/theme-options/theme-options.php:113
+msgid "Dark"
+msgstr "تیره"
+
+#: inc/theme-options/theme-options.php:105
+msgid "Light"
+msgstr "روشن"
+
+#: inc/theme-options/theme-options.php:87
+#: inc/theme-options/theme-options.php:88
+msgid "Theme Options"
+msgstr "گزینه‌های پوسته"
+
+#: inc/theme-options/theme-options.php:58
+msgid "First Link Color"
+msgstr "رنگ اول پیوند"
+
+#: inc/theme-options/theme-options.php:59
+msgid "Second Link Color"
+msgstr "رنگ دوم پیوند"
+
+#: inc/theme-options/theme-options.php:60
+msgid "Text Color"
+msgstr "رنگ متن"
+
+#: inc/theme-options/theme-options.php:57
+msgid "Color Scheme"
+msgstr "رنگ‌بندی"
+
+#: inc/template-tags.php:113
+msgid "<span class=\"post-date\"><a href=\"%1$s\" title=\"%2$s\" rel=\"bookmark\"><time class=\"entry-date\" datetime=\"%3$s\" pubdate>%4$s</time></a></span><span class=\"byline\"> by <span class=\"author vcard\"><a class=\"url fn n\" href=\"%5$s\" title=\"%6$s\" rel=\"author\">%7$s</a></span></span>"
+msgstr "<span class=\"post-date\"><a href=\"%1$s\" title=\"%2$s\" rel=\"bookmark\"><time class=\"entry-date\" datetime=\"%3$s\" pubdate>%4$s</time></a></span><span class=\"byline\"> بدست <span class=\"author vcard\"><a class=\"url fn n\" href=\"%5$s\" title=\"%6$s\" rel=\"author\">%7$s</a></span></span>"
+
+#: inc/template-tags.php:119
+msgid "View all posts by %s"
+msgstr "مشاهدهٔ همهٔ نوشته‌ها بر اساس %s"
+
+#: inc/template-tags.php:88
+msgid "%1$s at %2$s"
+msgstr "%1$s در %2$s"
+
+#: inc/template-tags.php:84
+msgid "%s <span class=\"says\">says:</span>"
+msgstr "%s <span class=\"says\">می‌گوید:</span>"
+
+#: inc/template-tags.php:80
+msgid "Your comment is awaiting moderation."
+msgstr "دیدگاه شما چشم به راه بررسی است."
+
+#: inc/template-tags.php:65
+msgid "Pingback:"
+msgstr "بازتاب: "
+
+#: inc/template-tags.php:40
+msgid "Newer posts <span class=\"meta-nav\">&rarr;</span>"
+msgstr "نوشته‌های تازه‌تر <span class=\"meta-nav\">&rarr;</span>"
+
+#: inc/template-tags.php:36
+msgid "<span class=\"meta-nav\">&larr;</span> Older posts"
+msgstr "<span class=\"meta-nav\">&larr;</span> نوشته‌های پیشین"
+
+#: inc/template-tags.php:30
+msgctxt "Previous post link"
+msgid "&larr;"
+msgstr "&larr;"
+
+#: inc/template-tags.php:31
+msgctxt "Next post link"
+msgid "&rarr;"
+msgstr "&rarr;"
+
+#: inc/template-tags.php:26
+msgid "Post navigation"
+msgstr "ناوبری نوشته"
+
+#: image.php:97
+msgid "Both comments and trackbacks are currently closed."
+msgstr "دیدگاه‌ها و دنبالكها هردو درحال حاضر بسته هستند."
+
+#: image.php:95
+msgid "Trackbacks are closed, but you can <a class=\"comment-link\" href=\"#respond\" title=\"Post a comment\">post a comment</a>."
+msgstr "دنباله‌ها بسته شده‌اند، اما شما می‌توانید <a class=\"comment-link\" href=\"#respond\" title=\"Post a comment\"> دیدگاهی بیان کنید</a>."
+
+#: image.php:93
+msgid "Comments are closed, but you can leave a trackback: <a class=\"trackback-link\" href=\"%s\" title=\"Trackback URL for your post\" rel=\"trackback\">Trackback URL</a>."
+msgstr "دیدگاه‌ها بسته شده‌اند، اما شما می‌توانید یک دنباله بگذارید: <a class=\"trackback-link\" href=\"%s\" title=\"Trackback URL for your post\" rel=\"trackback\"> آدرس اینترنتی دنباله </a>. "
+
+#: image.php:91
+msgid "<a class=\"comment-link\" href=\"#respond\" title=\"Post a comment\">Post a comment</a> or leave a trackback: <a class=\"trackback-link\" href=\"%s\" title=\"Trackback URL for your post\" rel=\"trackback\">Trackback URL</a>."
+msgstr "<a class=\"comment-link\" href=\"#respond\" title=\"Post a comment\">دیدگاهی بفرستید</a> یا یک دنبالک بگذارید: <a class=\"trackback-link\" href=\"%s\" title=\"Trackback URL for your post\" rel=\"trackback\">آدرس دنبالک</a>."
+
+#: image.php:38
+msgid "Next &rarr;"
+msgstr "بعدی &rarr; "
+
+#: image.php:37
+msgid "&larr; Previous"
+msgstr "&larr; پیشین"
+
+#: functions.php:81
+msgid "Secondary Sidebar"
+msgstr "نوار کناری دوم"
+
+#: image.php:24
+msgid "Published <span class=\"entry-date\"><time class=\"entry-date\" datetime=\"%1$s\" pubdate>%2$s</time></span> at <a href=\"%3$s\" title=\"Link to full-size image\">%4$s &times; %5$s</a> in <a href=\"%6$s\" title=\"Return to %7$s\" rel=\"gallery\">%7$s</a>"
+msgstr "منتشرشده <span class=\"entry-date\"><time class=\"entry-date\" datetime=\"%1$s\" pubdate>%2$s</time></span> در <a href=\"%3$s\" title=\"پیوند به تصویر تمام‌اندازه\">%4$s &times; %5$s</a> در <a href=\"%6$s\" title=\"بازگشت به %7$s\" rel=\"gallery\">%7$s</a>"
+
+#: functions.php:73
+msgid "Primary Sidebar"
+msgstr "ستون‌کناری اصلی"
+
+#: functions.php:55
+msgid "Primary Menu"
+msgstr "گزینگان اصلی"
+
+#: footer.php:19
+msgid "Theme: %1$s by %2$s."
+msgstr "پوسته: %1$s کاری از %2$s."
+
+#: footer.php:17
+msgid "Proudly powered by %s"
+msgstr "با افتخار، نیرو گرفته از %s"
+
+#: footer.php:17
+msgid "A Semantic Personal Publishing Platform"
+msgstr "بستر نشر شخصی معنایی"
+
+#: content.php:72
+msgid "About %s"
+msgstr "دربارهٔ %s"
+
+#: content.php:76
+msgid "View all posts by %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr "دیدن همهٔ نوشته‌ها بر اساس %s <span class=\"meta-nav\">&larr;</span>"
+
+#: content.php:61
+msgid "1 Comment"
+msgstr "۱ دیدگاه"
+
+#: content.php:61
+msgid "% Comments"
+msgstr "% دیدگاه"
+
+#: content.php:54
+msgid "Tags: %1$s"
+msgstr "برچسب‌ها: %1$s"
+
+#: content.php:61
+msgid "Leave a comment"
+msgstr "بیان دیدگاه"
+
+#: content.php:43
+msgid "Categories: %1$s"
+msgstr "دسته‌ها: %1$s"
+
+#: content.php:39 content.php:49
+msgid ", "
+msgstr "، "
+
+#: content.php:27 inc/tweaks.php:38
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr "به خواندن ادامه دهید <span class=\"meta-nav\">&rarr;</span>"
+
+#: content.php:10
+msgid "Featured"
+msgstr "ویژه"
+
+#: content-page.php:18 content.php:64 image.php:99 inc/template-tags.php:65
+#: inc/template-tags.php:90
+msgid "Edit"
+msgstr "ویرایش"
+
+#: content-page.php:17 content.php:28 image.php:85
+msgid "Pages:"
+msgstr "صفحه‌ها:"
+
+#: comments.php:63
+msgid "Comments are closed."
+msgstr "دیدگاه‌ها بسته شده‌اند."
+
+#: comments.php:53
+msgid "Newer Comments &rarr;"
+msgstr "دیدگاه‌های تازه‌تر &rarr;"
+
+#: comments.php:52
+msgid "&larr; Older Comments"
+msgstr "&larr; دیدگاه‌های پیشین"
+
+#: comments.php:32
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "یک دیدگاه برای &rdquo;%2$s&ldquo;"
+
+#: comments.php:51
+msgid "Comment navigation"
+msgstr "ناوبری دیدگاه"
+
+#: comments.php:16
+msgid "This post is password protected. Enter the password to view any comments."
+msgstr "این نوشته با گذرواژه پاسداری شده است. برای مشاهدهٔ دیدگاه‌ها گذرواژه را وارد کنید."
+
+#: archive.php:95
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "به نظر می‌آید ما نمی‌توانیم آنچه به دنبالش هستید بیابیم. احتمالا جست‌وجو می‌تواند کمک کند."
+
+#: archive.php:91 search.php:33
+msgid "Nothing Found"
+msgstr "چیزی پیدا نشد"
+
+#: archive.php:49
+msgid "Archives"
+msgstr "بایگانی"
+
+#: archive.php:32
+msgid "Author Archives for %s"
+msgstr "بایگانی‌های نویسنده برای %s"
+
+#: archive.php:40
+msgid "Daily Archives for %s"
+msgstr "بایگانی‌های روزانه برای %s"
+
+#: archive.php:43
+msgid "Monthly Archives for %s"
+msgstr "بایگانی‌های ماهانه برای %s"
+
+#: archive.php:46
+msgid "Yearly Archives for %s"
+msgstr "بایگانی‌های سالانه برای %s"
+
+#: archive.php:22
+msgid "Category Archives for %s"
+msgstr "بایگانی‌های دسته برای %s"
+
+#: archive.php:25
+msgid "Tag Archives for %s"
+msgstr "بایگانی‌های برچسب برای %s"
+
+#: 404.php:27
+msgid "Most Used Categories"
+msgstr "پراستفاده‌ترین دسته‌ها"
+
+#: 404.php:35
+msgid "Try looking in the monthly archives. %1$s"
+msgstr "بد نیست نگاهی به بایگانی ماهانه بیندازید. %1$s"
+
+#: 404.php:16
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "اوه! امکان یافتن صفحه نیست."
+
+#: 404.php:20
+msgid "It looks like nothing was found at this location. Maybe try one of the links below or a search?"
+msgstr "به نظر می‌رسد چیزی در این مکان نیست. شاید بخواهید یکی از پیوندهای زیر یا جست‌وجو را آزمایش کنید."
